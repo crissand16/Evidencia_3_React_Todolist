@@ -39,8 +39,16 @@ td {
 .tabla th {
   background-color: #d60000;
   color: white;
+<<<<<<< HEAD
   padding: 14px 12px;
   text-align: center;
+=======
+
+  padding: 14px 12px;
+
+  text-align: center;
+
+>>>>>>> d1eda18a6ccdfd7b6ae1f3dc360433e73c0fdaff
   border: none;
 }
 .tabla td {
@@ -75,7 +83,11 @@ td {
 }
 
 /* FOrmulario */
+<<<<<<< HEAD
 .form {
+=======
+.tareas {
+>>>>>>> d1eda18a6ccdfd7b6ae1f3dc360433e73c0fdaff
   width: 90%;
   max-width: 600px;
   margin: 30px auto;
@@ -89,14 +101,23 @@ td {
   gap: 18px;
 }
 
+<<<<<<< HEAD
 .form label {
+=======
+.tareas label {
+>>>>>>> d1eda18a6ccdfd7b6ae1f3dc360433e73c0fdaff
   color: #ffffff;
   font-weight: bold;
   margin-bottom: 6px;
 }
 
+<<<<<<< HEAD
 .form input,
 .form select {
+=======
+.tareas input,
+.tareas select {
+>>>>>>> d1eda18a6ccdfd7b6ae1f3dc360433e73c0fdaff
   width: 100%;
   padding: 12px;
 
@@ -109,13 +130,22 @@ td {
   outline: none;
 }
 
+<<<<<<< HEAD
 .form input:focus,
 .form select:focus {
+=======
+.tareas input:focus,
+.tareas select:focus {
+>>>>>>> d1eda18a6ccdfd7b6ae1f3dc360433e73c0fdaff
   border-color: #e00000;
   box-shadow: 0 0 7px rgba(224, 0, 0, 0.4);
 }
 
+<<<<<<< HEAD
 .form button {
+=======
+.tareas button {
+>>>>>>> d1eda18a6ccdfd7b6ae1f3dc360433e73c0fdaff
   padding: 12px;
 
   background: #d60000;
@@ -128,7 +158,11 @@ td {
   cursor: pointer;
 }
 
+<<<<<<< HEAD
 .form button:hover {
+=======
+.tareas button:hover {
+>>>>>>> d1eda18a6ccdfd7b6ae1f3dc360433e73c0fdaff
   background: #ff2222;
   transform: translateY(-2px);
 }

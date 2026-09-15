@@ -12,12 +12,7 @@ const App = () => {
   return(
     //Bloque de navegacion global 
     <>
-      <nav style={{ display: "flex", 
-                    gap: "20px",
-                    paddingBottom: "50px", 
-                    paddingTop: "50px", 
-                    backgroundColor :"beige"
-       }}>
+      <nav style={{ display: "flex", gap: "20px", marginBottom: "z" }}>
           <NavLink to="/todos">
               Tareas
           </NavLink>
