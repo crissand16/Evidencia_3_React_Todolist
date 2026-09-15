@@ -1,0 +1,8 @@
+POST http://localhost:3006/todos HTTP/1.1
+content-type: application/json
+
+{
+    "titulo": "sample",
+    "prioridad": "Alta",
+    "completada": true
+}

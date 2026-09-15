@@ -1,0 +1,134 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Tarea 1",
+      "prioridad": "Alta",
+      "completada": false
+    },
+    {
+      "id": "2",
+      "title": "Tarea 2",
+      "prioridad": "Media",
+      "completada": true
+    },
+    {
+      "titulo": "sample",
+      "prioridad": "Alta",
+      "completada": true,
+      "id": "IcBcMSy69Og"
+    },
+    {
+      "titulo": "Ejemplo Tarea",
+      "prioridad": "Alta",
+      "completada": true,
+      "id": "x8FCc6GwBLU"
+    },
+    {
+      "titulo": "Ejemplo Tarea",
+      "prioridad": "Alta",
+      "completada": true,
+      "id": "3Ue4TFLFrTo"
+    },
+    {
+      "titulo": "Ejemplo Tarea",
+      "prioridad": "Alta",
+      "completada": true,
+      "id": "xdubU_rXKhs"
+    },
+    {
+      "titulo": "Ejemplo Tarea",
+      "prioridad": "Alta",
+      "completada": true,
+      "id": "l7Gn2btL_Fk"
+    },
+    {
+      "titulo": "Ejemplo mil",
+      "prioridad": "Alta",
+      "completada": true,
+      "id": "ykIuqMDRz28"
+    },
+    {
+      "titulo": "E 200",
+      "prioridad": "Alta",
+      "completada": false,
+      "id": "7_oY_xz_ltY"
+    },
+    {
+      "id": "ACGhYvUeXLY",
+      "titulo": "camilo cifuentes",
+      "prioridad": "Media",
+      "completada": false
+    },
+    {
+      "method": "POST",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "body": "{\"id\":\"39bbe23b-c274-4a6a-8703-da9bbe03d80c\",\"titulo\":\"tare4a i1i1i\",\"prioridad\":\"Alta\",\"completada\":false}",
+      "id": "JzD4gs13_ck"
+    },
+    {
+      "method": "POST",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "body": "{\"id\":\"555e487d-4b65-4ec2-9cc8-b2baf01c3131\",\"titulo\":\"hhhhh\",\"prioridad\":\"Alta\",\"completada\":false}",
+      "id": "Z89JlEMZlLo"
+    },
+    {
+      "id": "gj9TniIbyEo"
+    },
+    {
+      "id": "5jmROW8717k",
+      "titulo": "asasas",
+      "prioridad": "Media",
+      "completada": false
+    },
+    {
+      "id": "8FKhFHJCKLs",
+      "titulo": "qwdfw",
+      "prioridad": "Baja",
+      "completada": false
+    },
+    {
+      "id": "rw7SY_vX6Ko",
+      "titulo": "hola",
+      "prioridad": "Media",
+      "completada": false
+    },
+    {
+      "id": "4bZcgr4Hd40",
+      "titulo": "Exposicion profe nueva",
+      "prioridad": "Alta",
+      "completada": false
+    },
+    {
+      "id": "HqhzI6_dkG0",
+      "titulo": "el pepe",
+      "prioridad": "Media",
+      "completada": false
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "nombre": "Cristian Gómez",
+      "email": "criss@gmail.com",
+      "rol": "Admin"
+    },
+    {
+      "id": "2",
+      "nombre": "Jose Castillo",
+      "email": "josesin@gmail.com",
+      "rol": "Dev"
+    },
+    {
+      "nombre": "Ana Maria",
+      "email": "anabanana@gmail.com",
+      "rol": "Dev",
+      "id": "98TTL6FNapE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
